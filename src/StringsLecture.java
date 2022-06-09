@@ -1,6 +1,6 @@
-public class StringLecture {
-
-        public static void main(String[] args) {
+//public class StringLecture {
+//
+//        public static void main(String[] args) {
 
 //        .equals(String anotherString)
 
@@ -120,6 +120,6 @@ public class StringLecture {
             // System.out.println(pigLatinWord);
 
 
-
-        }
-}
+//
+//        }
+//}
