@@ -5,7 +5,7 @@ public class HelloWorld {
         int myFavoriteNumber = 26;
         System.out.println(myFavoriteNumber);
 
-        String niaWord = "Hello World, how are you?";
-        System.out.println(niaWord);
+        String myString = "Hello World, how are you?";
+        System.out.println(myString);
     }
 }
