@@ -4,6 +4,5 @@ public class PetDogTest {
         grinch.snuggle();
         System.out.println(grinch.snuggle());
 
-        adding this so i can push
     }
 }
